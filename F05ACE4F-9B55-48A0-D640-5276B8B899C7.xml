@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:project xmlns:arch="http://ochre.lib.uchicago.edu/schema/Project/Project.xsd" xmlns:oc="http://opencontext.org/schema/project_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="F05ACE4F-9B55-48A0-D640-5276B8B899C7" ownedBy="F05ACE4F-9B55-48A0-D640-5276B8B899C7">
+  <arch:name>
+    <arch:string>Kentucky Site Files</arch:string>
+  </arch:name>
+  <oc:manage_info>
+    <oc:queryVal>Kentucky+Site+Files</oc:queryVal>
+    <oc:rootPath>/United+States</oc:rootPath>
+    <oc:spaceCount>0</oc:spaceCount>
+    <oc:mediaCount>0</oc:mediaCount>
+    <oc:diaryCount>0</oc:diaryCount>
+    <oc:projGeoPoint> </oc:projGeoPoint>
+  </oc:manage_info>
+  <arch:notes>
+    <arch:note type="short_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">Archaeological site files maintained by the Kentucky Office of State Archaeology (KOSA)</div>
+      </arch:string>
+    </arch:note>
+    <arch:note type="long_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">        <div>
+        <p>This dataset  within the Digital Index of North American Archaeology (DINAA) represents archaeological site definitions in the state of Kentucky, United States of America. The source data are provided as a public service by the Kentucky Office of State Archaeology (KOSA), where they are used to help record cultural resources and ascertain compliance with federal, state, and local statutes regarding the protection of those resources. The representation of these source data in DINAA is limited to definitions of archaeological cultures, site use types, diagnostic artifacts, and fields related to the quality of information preservation at each site. The source data maintained by the KOSA contain many other elements that are not present in DINAA, including those that may be improper for Web-publication such as precise location coordinates. As such, DINAA data are not suitable for records checks or other activities to demonstrate compliance with federal, state, or local regulations. DINAA data are useful for recognizing trends among archaeological site characteristics in various spatial and temporal combinations, for research and educational purposes. Any user who wishes to investigate the source data in detail for legal compliance or research purposes, or wishes to learn more about the important work of archaeological preservation in Kentucky, should <a href="https://anthropology.as.uky.edu/office-state-archaeology/">contact the KOSA</a> directly.</p>
+
+       
+        <h4>Browsing the Data</h4>
+        <p>The DINAA project continues to develop interface and visualization features to facilitate use of these data. This effort includes continued development
+        and implementation of shared controlled vocabularies that will enable search and comparison of data from multiple states. Currently, one can search
+        across multiple states using a shared vocabulary for archaeological cultures / periods. See below for links to example searches: </p>
+        <ul>
+            <li><a href="http://opencontext.org/sets/United+States/Kentucky?chrono=1&amp;geotile=0&amp;geodeep=11&amp;cat=Site&amp;dinaaPer=root" title="Browse options for DINAA archaeological periods">Faceted search of periods</a>. On the left, different periods are listed as search options.</li>
+            <li><a href="http://opencontext.org/sets/United+States/Kentucky?chrono=1&amp;geotile=0&amp;geodeep=11&amp;cat=Site&amp;dinaaPer=http%3A%2F%2Fopencontext.org%2Fvocabularies%2Fdinaa%2F00007" title="Browse options for DINAA Archaic periods">Faceted search of Archaic sub-periods</a>. On the left, different sub-periods are listed as search options.</li>
+        </ul>
+        
+        
+        
+        <h4>Publication Note</h4>
+        
+            <p>These data are still in a public DRAFT status. Various issues with identifiers need to be resolved in consultation with KOSA officials.</p>
+            <p>Open Context published this dataset as part of a larger, multi-state data sharing and integration project, the Digital Index of North American Archaeology (DINAA), funded in 2012 by the National Science Foundation (award # 1216819 and 1217240). DINAA's team of university, public, and private sector researchers is developing models to publish and index archaeological information from large areas of eastern North America for free of charge access and reuse by all researchers, students, and enthusiasts. For more about the DINAA project, <a href="http://ux.opencontext.org/blog/archaeology-site-data/">visit the project website</a>.</p>
+                
+        
+    </div></div>
+      </arch:string>
+    </arch:note>
+  </arch:notes>
+  <oc:metadata>
+    <dc:title>Kentucky Site Files: (Overview)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-03-16</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>Kentucky</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/">Kentucky Office of State Archaeology (KOSA)</dc:creator>
+    <dc:identifier>http://opencontext.org/projects/F05ACE4F-9B55-48A0-D640-5276B8B899C7</dc:identifier>
+    <dc:identifier type="doi" href="http://dx.doi.org/10.6078/M7CZ3530">10.6078/M7CZ3530</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/F05ACE4F-9B55-48A0-D640-5276B8B899C7">Kentucky Site Files</oc:project_name>
+    <oc:pub_date>2014-03-16T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Kentucky+Site+Files%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=Kentucky&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Kentucky+SHPO&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2FF05ACE4F-9B55-48A0-D640-5276B8B899C7&amp;rft.identifier=DOI%3A10.6078%2FM7CZ3530</oc:coins>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+</arch:project>

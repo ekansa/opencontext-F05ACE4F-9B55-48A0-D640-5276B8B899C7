@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="DDA513DB-259C-402E-BE2A-D49DB28C4F57" ownedBy="F05ACE4F-9B55-48A0-D640-5276B8B899C7">
+  <arch:name>
+    <arch:string>Rowan</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Region</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>api.geonames.org</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>B90CA9CC-B313-4525-8F26-0896AE7D3ED2</arch:variableID>
+          <arch:valueID>80633BDD-3C76-484D-0965-C19EF1B92A09</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7A758AF7-42A0-408E-F1B7-F1884481ED3F">7A758AF7-42A0-408E-F1B7-F1884481ED3F</oc:propid>
+          <oc:var_label type="nominal">Gazetteer reference</oc:var_label>
+          <oc:show_val>Rowan County (GeoNames:4048572)</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="B90CA9CC-B313-4525-8F26-0896AE7D3ED2" href="http://purl.org/dc/terms/references">
+              <oc:vocabulary href="http://concordia.atlantides.org/">Concordia</oc:vocabulary>
+              <oc:label>References</oc:label>
+              <oc:targetLink localType="property" localID="7A758AF7-42A0-408E-F1B7-F1884481ED3F" localURI="http://opencontext.org/properties/7A758AF7-42A0-408E-F1B7-F1884481ED3F" href="http://www.geonames.org/4048572">
+                <oc:vocabulary href="http://www.geonames.org/">GeoNames</oc:vocabulary>
+                <oc:label>Rowan County</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>87556028-677C-4C59-BA35-AE509BC825AD</arch:variableID>
+          <arch:valueID>A5AE90F4-F5B6-49D4-FCD3-6C291318005F</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/354FA711-D48D-4413-43D1-A0F79E3EC539">354FA711-D48D-4413-43D1-A0F79E3EC539</oc:propid>
+          <oc:var_label type="alphanumeric">County name</oc:var_label>
+          <oc:show_val>Rowan County</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4F938A4E-3293-4016-1DA4-2E62408D9DC9</arch:variableID>
+          <arch:integer>205</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/49DADE3E-1F50-44F3-15A8-B936AD9BD9CD">49DADE3E-1F50-44F3-15A8-B936AD9BD9CD</oc:propid>
+          <oc:var_label type="integer">County FIPS</oc:var_label>
+          <oc:show_val>205</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DE279E91-0CA0-44E4-0AFF-7110B330EF42</arch:variableID>
+          <arch:integer>21205</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/55527BB7-255F-4259-0C93-E794F2064AE5">55527BB7-255F-4259-0C93-E794F2064AE5</oc:propid>
+          <oc:var_label type="integer">FIPS</oc:var_label>
+          <oc:show_val>21205</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/0AD857F6-AA14-4E8B-8089-65774E9C4DC6">
+        <oc:name>Kentucky</oc:name>
+        <oc:id>0AD857F6-AA14-4E8B-8089-65774E9C4DC6</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/5EB7120A-FFE1-421F-B3C6-F5FDCCB7CDAA">
+        <oc:name>15Fl139</oc:name>
+        <oc:id>5EB7120A-FFE1-421F-B3C6-F5FDCCB7CDAA</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1CE987B1-3D8B-4446-2BE6-7171EACD512D">
+        <oc:name>15Fl140</oc:name>
+        <oc:id>1CE987B1-3D8B-4446-2BE6-7171EACD512D</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/60164E58-7D88-4813-4F20-9370C7CA4D67">
+        <oc:name>15Ro145</oc:name>
+        <oc:id>60164E58-7D88-4813-4F20-9370C7CA4D67</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/144043B0-5D2A-450F-79C8-32DACE8B1DCB">
+        <oc:name>15Ro184</oc:name>
+        <oc:id>144043B0-5D2A-450F-79C8-32DACE8B1DCB</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F9D7FC3F-69F4-4076-A557-45F5EDBC0D87">
+        <oc:name>15Ro185</oc:name>
+        <oc:id>F9D7FC3F-69F4-4076-A557-45F5EDBC0D87</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F3101BE8-2291-452D-C21E-6CC5CC465DE3">
+        <oc:name>15Ro192</oc:name>
+        <oc:id>F3101BE8-2291-452D-C21E-6CC5CC465DE3</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4B09F5E2-C8C1-4377-C175-D75A13169C52">
+        <oc:name>15Ro195</oc:name>
+        <oc:id>4B09F5E2-C8C1-4377-C175-D75A13169C52</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D8502877-C2FF-4578-643B-FD88800358DE">
+        <oc:name>15Ro197</oc:name>
+        <oc:id>D8502877-C2FF-4578-643B-FD88800358DE</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C5AC517E-7CA0-4417-5214-3756663A5835">
+        <oc:name>15Ro208</oc:name>
+        <oc:id>C5AC517E-7CA0-4417-5214-3756663A5835</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A9764CFC-D514-4A7A-7318-62DF4E4D7B94">
+        <oc:name>15Ro35</oc:name>
+        <oc:id>A9764CFC-D514-4A7A-7318-62DF4E4D7B94</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/41CB8BD4-7CBA-4507-0491-304E82EC1CC6">
+        <oc:name>15Ro36</oc:name>
+        <oc:id>41CB8BD4-7CBA-4507-0491-304E82EC1CC6</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A73ABF59-5556-46FF-3BFC-4D32CA9D7F5D">
+        <oc:name>15Ro39</oc:name>
+        <oc:id>A73ABF59-5556-46FF-3BFC-4D32CA9D7F5D</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/227FB3E3-0BA9-4777-F538-976C34BE3DB0">
+        <oc:name>15Ro40</oc:name>
+        <oc:id>227FB3E3-0BA9-4777-F538-976C34BE3DB0</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7B71F992-9F85-4519-2874-57A8E2F43A4F">
+        <oc:name>15Ro41</oc:name>
+        <oc:id>7B71F992-9F85-4519-2874-57A8E2F43A4F</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DF5CB7F3-3A85-45FB-229D-E5F4AF73F972">
+        <oc:name>15Ro62</oc:name>
+        <oc:id>DF5CB7F3-3A85-45FB-229D-E5F4AF73F972</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/41FAD161-BCB5-4E01-434A-9112018FDF2B">
+        <oc:name>15Ro72</oc:name>
+        <oc:id>41FAD161-BCB5-4E01-434A-9112018FDF2B</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9841F7CD-905E-4EE2-5258-3D84B455BAD6">
+        <oc:name>15Ro73</oc:name>
+        <oc:id>9841F7CD-905E-4EE2-5258-3D84B455BAD6</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AC6CEA9C-59EA-46BB-0335-A09B29F5834D">
+        <oc:name>15Ro75</oc:name>
+        <oc:id>AC6CEA9C-59EA-46BB-0335-A09B29F5834D</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1759D61B-1318-420F-DC73-4D6067BC218D">
+        <oc:name>15Ro76</oc:name>
+        <oc:id>1759D61B-1318-420F-DC73-4D6067BC218D</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C7D85E88-B13D-4B98-06A5-CD9CCD29C537">
+        <oc:name>15Ro77</oc:name>
+        <oc:id>C7D85E88-B13D-4B98-06A5-CD9CCD29C537</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Kentucky Site Files: Rowan (Region)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-03-15</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>Kentucky</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/">Kentucky Office of State Archaeology (KOSA)</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/DDA513DB-259C-402E-BE2A-D49DB28C4F57</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/F05ACE4F-9B55-48A0-D640-5276B8B899C7">Kentucky Site Files</oc:project_name>
+    <oc:pub_date>2014-03-15T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Kentucky+Site+Files%3A+Rowan+%28Region%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=Kentucky&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Kentucky+SHPO&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FDDA513DB-259C-402E-BE2A-D49DB28C4F57</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>38.206914901733</oc:geo_lat>
+      <oc:geo_long>-83.417095184326</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/DDA513DB-259C-402E-BE2A-D49DB28C4F57" specificity="-1">
+        <oc:note>Data from geonames.org</oc:note>
+        <oc:source_name>Rowan</oc:source_name>
+        <oc:source_id>DDA513DB-259C-402E-BE2A-D49DB28C4F57</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-03-15T17:07:31-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/03/15 17:07:31</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>

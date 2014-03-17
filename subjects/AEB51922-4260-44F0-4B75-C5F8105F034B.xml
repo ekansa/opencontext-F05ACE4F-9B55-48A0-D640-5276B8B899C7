@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="AEB51922-4260-44F0-4B75-C5F8105F034B" ownedBy="F05ACE4F-9B55-48A0-D640-5276B8B899C7">
+  <arch:name>
+    <arch:string>Robertson</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Region</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>api.geonames.org</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>B90CA9CC-B313-4525-8F26-0896AE7D3ED2</arch:variableID>
+          <arch:valueID>EB22A822-6B6E-4AEF-D710-037050FD4C82</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9FC7A686-7065-4E49-DA8C-1809F0E786FD">9FC7A686-7065-4E49-DA8C-1809F0E786FD</oc:propid>
+          <oc:var_label type="nominal">Gazetteer reference</oc:var_label>
+          <oc:show_val>Robertson County (GeoNames:4306340)</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="B90CA9CC-B313-4525-8F26-0896AE7D3ED2" href="http://purl.org/dc/terms/references">
+              <oc:vocabulary href="http://concordia.atlantides.org/">Concordia</oc:vocabulary>
+              <oc:label>References</oc:label>
+              <oc:targetLink localType="property" localID="9FC7A686-7065-4E49-DA8C-1809F0E786FD" localURI="http://opencontext.org/properties/9FC7A686-7065-4E49-DA8C-1809F0E786FD" href="http://www.geonames.org/4306340">
+                <oc:vocabulary href="http://www.geonames.org/">GeoNames</oc:vocabulary>
+                <oc:label>Robertson County</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>87556028-677C-4C59-BA35-AE509BC825AD</arch:variableID>
+          <arch:valueID>F3AC99DA-2660-4FC4-C18B-01FC6A9FB532</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7A393982-9384-4F06-0E3E-1ADEEB862CA9">7A393982-9384-4F06-0E3E-1ADEEB862CA9</oc:propid>
+          <oc:var_label type="alphanumeric">County name</oc:var_label>
+          <oc:show_val>Robertson County</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4F938A4E-3293-4016-1DA4-2E62408D9DC9</arch:variableID>
+          <arch:integer>201</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/C6D8975F-B547-4FB6-BD46-7E07B3EC2AE7">C6D8975F-B547-4FB6-BD46-7E07B3EC2AE7</oc:propid>
+          <oc:var_label type="integer">County FIPS</oc:var_label>
+          <oc:show_val>201</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DE279E91-0CA0-44E4-0AFF-7110B330EF42</arch:variableID>
+          <arch:integer>21201</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/5422DC13-9941-4F95-7BA4-CF303328C626">5422DC13-9941-4F95-7BA4-CF303328C626</oc:propid>
+          <oc:var_label type="integer">FIPS</oc:var_label>
+          <oc:show_val>21201</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/0AD857F6-AA14-4E8B-8089-65774E9C4DC6">
+        <oc:name>Kentucky</oc:name>
+        <oc:id>0AD857F6-AA14-4E8B-8089-65774E9C4DC6</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/43E88B8F-369F-4DDF-A1FA-7FCA0000F5B8">
+        <oc:name>15Hr1</oc:name>
+        <oc:id>43E88B8F-369F-4DDF-A1FA-7FCA0000F5B8</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E6DEF16F-0F03-4D3B-036B-5E14BE38A40A">
+        <oc:name>15Hr45</oc:name>
+        <oc:id>E6DEF16F-0F03-4D3B-036B-5E14BE38A40A</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/034281E4-7448-4783-FCE6-8530E98D7477">
+        <oc:name>15Rb1</oc:name>
+        <oc:id>034281E4-7448-4783-FCE6-8530E98D7477</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F37824C4-C565-49E9-1F8D-131102548D21">
+        <oc:name>15Rb10</oc:name>
+        <oc:id>F37824C4-C565-49E9-1F8D-131102548D21</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3001166D-A0EC-4FA1-7085-0C28D90AC6B3">
+        <oc:name>15Rb11</oc:name>
+        <oc:id>3001166D-A0EC-4FA1-7085-0C28D90AC6B3</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/689B83CA-2D42-4469-EE03-3157BCF9C5BA">
+        <oc:name>15Rb13</oc:name>
+        <oc:id>689B83CA-2D42-4469-EE03-3157BCF9C5BA</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C0B58A24-1DCA-4784-0ABC-AB5706B15D98">
+        <oc:name>15Rb14</oc:name>
+        <oc:id>C0B58A24-1DCA-4784-0ABC-AB5706B15D98</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/066DD1A6-B937-427D-F352-E1E7B819F3CA">
+        <oc:name>15Rb15</oc:name>
+        <oc:id>066DD1A6-B937-427D-F352-E1E7B819F3CA</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C273746E-2B1E-478C-A6B5-A0847DAABA4D">
+        <oc:name>15Rb17</oc:name>
+        <oc:id>C273746E-2B1E-478C-A6B5-A0847DAABA4D</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/067D7DDF-3B1D-4697-A43B-9ECD7072549F">
+        <oc:name>15Rb18</oc:name>
+        <oc:id>067D7DDF-3B1D-4697-A43B-9ECD7072549F</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6671B302-0683-4E2B-731D-565386A489C0">
+        <oc:name>15Rb19</oc:name>
+        <oc:id>6671B302-0683-4E2B-731D-565386A489C0</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DE8C3504-D138-48B1-3B92-78AE3ABCBC9E">
+        <oc:name>15Rb2</oc:name>
+        <oc:id>DE8C3504-D138-48B1-3B92-78AE3ABCBC9E</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D3D19B72-DC93-4E36-147F-64FC7E4661A2">
+        <oc:name>15Rb20</oc:name>
+        <oc:id>D3D19B72-DC93-4E36-147F-64FC7E4661A2</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0082B98E-A0FB-4627-363F-231B0D1881D9">
+        <oc:name>15Rb21</oc:name>
+        <oc:id>0082B98E-A0FB-4627-363F-231B0D1881D9</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3285BE26-E5BF-4C01-E295-68889E09501E">
+        <oc:name>15Rb22</oc:name>
+        <oc:id>3285BE26-E5BF-4C01-E295-68889E09501E</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C77CE7A5-EAF5-4112-86ED-3CDD205E4590">
+        <oc:name>15Rb23</oc:name>
+        <oc:id>C77CE7A5-EAF5-4112-86ED-3CDD205E4590</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CB4D356B-76A7-4A3E-C16F-D19F3877F819">
+        <oc:name>15Rb3</oc:name>
+        <oc:id>CB4D356B-76A7-4A3E-C16F-D19F3877F819</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/594CF5B6-10A5-42EB-5D88-6744B6A462E5">
+        <oc:name>15Rb31</oc:name>
+        <oc:id>594CF5B6-10A5-42EB-5D88-6744B6A462E5</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0B790EF8-D9F2-4125-52E8-573D1B856B95">
+        <oc:name>15Rb4</oc:name>
+        <oc:id>0B790EF8-D9F2-4125-52E8-573D1B856B95</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AC76C748-5CC6-4118-9EB5-232912CA6FA6">
+        <oc:name>15Rb5</oc:name>
+        <oc:id>AC76C748-5CC6-4118-9EB5-232912CA6FA6</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C7BC923F-7810-4EC4-6035-C05447EEA497">
+        <oc:name>15Rb6</oc:name>
+        <oc:id>C7BC923F-7810-4EC4-6035-C05447EEA497</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/15C1A763-95B9-4089-D8A7-AF3D12F09A31">
+        <oc:name>15Rb7</oc:name>
+        <oc:id>15C1A763-95B9-4089-D8A7-AF3D12F09A31</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5DFF93EF-4A7B-4C64-4147-222A7301FBA2">
+        <oc:name>15Rb9</oc:name>
+        <oc:id>5DFF93EF-4A7B-4C64-4147-222A7301FBA2</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Kentucky Site Files: Robertson (Region)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-03-15</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>Kentucky</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/">Kentucky Office of State Archaeology (KOSA)</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/AEB51922-4260-44F0-4B75-C5F8105F034B</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/F05ACE4F-9B55-48A0-D640-5276B8B899C7">Kentucky Site Files</oc:project_name>
+    <oc:pub_date>2014-03-15T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Kentucky+Site+Files%3A+Robertson+%28Region%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=Kentucky&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Kentucky+SHPO&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FAEB51922-4260-44F0-4B75-C5F8105F034B</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>38.513303756714</oc:geo_lat>
+      <oc:geo_long>-84.056720733643</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/AEB51922-4260-44F0-4B75-C5F8105F034B" specificity="-1">
+        <oc:note>Data from geonames.org</oc:note>
+        <oc:source_name>Robertson</oc:source_name>
+        <oc:source_id>AEB51922-4260-44F0-4B75-C5F8105F034B</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-03-15T17:07:28-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/03/15 17:07:28</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>

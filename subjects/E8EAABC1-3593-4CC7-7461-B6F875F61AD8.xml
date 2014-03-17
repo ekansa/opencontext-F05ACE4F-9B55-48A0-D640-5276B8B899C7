@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="E8EAABC1-3593-4CC7-7461-B6F875F61AD8" ownedBy="F05ACE4F-9B55-48A0-D640-5276B8B899C7">
+  <arch:name>
+    <arch:string>15Bd17</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_8_e21861fce</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>2F966D67-1463-47EE-C9B3-0CE4C12BD168</arch:variableID>
+          <arch:integer>17</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/834BC22C-8300-4E43-4DC1-8902F1963BCA">834BC22C-8300-4E43-4DC1-8902F1963BCA</oc:propid>
+          <oc:var_label type="integer">Site Number</oc:var_label>
+          <oc:show_val>17</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>96A78535-D507-45E6-F96F-64EEA72F76C3</arch:variableID>
+          <arch:integer>14270</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/091F0055-43F0-4231-22AC-9B4B8A22AF3A">091F0055-43F0-4231-22AC-9B4B8A22AF3A</oc:propid>
+          <oc:var_label type="integer">Object ID</oc:var_label>
+          <oc:show_val>14270</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A41610A1-58AF-474C-206B-A8EECC4E292D</arch:variableID>
+          <arch:valueID>06C0FBE3-4E30-41C4-C15F-9E6834B0ED0F</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/BEFC47F2-75C4-4BC8-3BC4-063A6E170375">BEFC47F2-75C4-4BC8-3BC4-063A6E170375</oc:propid>
+          <oc:var_label type="nominal">Kentucky County</oc:var_label>
+          <oc:show_val>Boyd</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>0AF4175E-891D-4BBD-6D82-E98FC2FB7A2C</arch:variableID>
+          <arch:valueID>2A7EFDD2-E712-49B7-4386-21EDCDEEBFA8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B1872739-26E9-4D6A-B04E-6E4BE9959D52">B1872739-26E9-4D6A-B04E-6E4BE9959D52</oc:propid>
+          <oc:var_label type="nominal">Quad</oc:var_label>
+          <oc:show_val>BURNAUGH</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8727E91B-6118-46F7-42F7-99C19B1F9382</arch:variableID>
+          <arch:integer>72</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/F1B406EB-0126-411A-E84D-DCCD3C577961">F1B406EB-0126-411A-E84D-DCCD3C577961</oc:propid>
+          <oc:var_label type="integer">Quad Date</oc:var_label>
+          <oc:show_val>72</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>86E4276F-CC94-4F05-5972-710264726005</arch:variableID>
+          <arch:valueID>C7F98C3C-02C4-4E82-8856-091C3EA51996</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A12CFACA-27A3-47B6-12A7-0C403FE1111E">A12CFACA-27A3-47B6-12A7-0C403FE1111E</oc:propid>
+          <oc:var_label type="nominal">Reliable</oc:var_label>
+          <oc:show_val>Good</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>ABDB0024-C06E-436E-E49F-133A812B3A8C</arch:variableID>
+          <arch:integer>0</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/0F099920-B42E-497A-D605-5D668A4B32BE">0F099920-B42E-497A-D605-5D668A4B32BE</oc:propid>
+          <oc:var_label type="integer">Number of components</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3E541091-61D9-4A80-FCC7-E5D426EEDE38</arch:variableID>
+          <arch:valueID>379A85EF-F0AE-4D71-D30C-58AF33671D4B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/85F078DE-89B9-4C13-7C07-5E1D49096BB7">85F078DE-89B9-4C13-7C07-5E1D49096BB7</oc:propid>
+          <oc:var_label type="alphanumeric">Historical Dates</oc:var_label>
+          <oc:show_val>Not Recorded</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>96943C5A-3426-4D69-63CC-DB80660EED66</arch:variableID>
+          <arch:valueID>BC7F67A1-FF59-46D9-DEC9-00AE544B5A69</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7545CC24-F339-4846-2357-319E6B82C9A4">7545CC24-F339-4846-2357-319E6B82C9A4</oc:propid>
+          <oc:var_label type="nominal">Site type</oc:var_label>
+          <oc:show_val>stone mound</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>96DDF308-039D-4414-696D-66C62F00FCEC</arch:variableID>
+          <arch:valueID>9A931898-9009-4E6F-7472-E636086E1ADB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/01D5D69C-564F-4838-10CE-1CEB10DF0D70">01D5D69C-564F-4838-10CE-1CEB10DF0D70</oc:propid>
+          <oc:var_label type="nominal">Midden</oc:var_label>
+          <oc:show_val>unknown</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6230BC8E-3C0B-469A-36F4-9C2D7AE46528</arch:variableID>
+          <arch:valueID>A2A7873B-170C-4D79-3F9F-AD0146402846</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C91672E4-1194-4970-2D27-BD26BCA95883">C91672E4-1194-4970-2D27-BD26BCA95883</oc:propid>
+          <oc:var_label type="nominal">Condition</oc:var_label>
+          <oc:show_val>disturbed, % unknown</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A7F21D3E-EF4C-4EFD-332E-C008C3CFA65F</arch:variableID>
+          <arch:valueID>633F1207-AFFE-4A74-2674-E3758D96ABF0</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/2D9F227C-9150-4563-3302-A9509880E383">2D9F227C-9150-4563-3302-A9509880E383</oc:propid>
+          <oc:var_label type="nominal">Initial land use</oc:var_label>
+          <oc:show_val>woods / forest</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4DE2A570-5315-4A72-1DEE-F92C1E4F0511</arch:variableID>
+          <arch:valueID>0790B173-AED4-4DBA-22D7-A66C62BF4338</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DADAABE4-8A3B-4590-59E3-1541D48BCDDF">DADAABE4-8A3B-4590-59E3-1541D48BCDDF</oc:propid>
+          <oc:var_label type="nominal">Previous land use</oc:var_label>
+          <oc:show_val>cultivated field</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F5E34418-7C22-4415-FC58-25CB47FAD192</arch:variableID>
+          <arch:valueID>E6FA0B08-EE22-4874-912D-8545C0AB4F4A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/29E59F12-2041-405F-51CE-85A5CA371304">29E59F12-2041-405F-51CE-85A5CA371304</oc:propid>
+          <oc:var_label type="nominal">Physiography</oc:var_label>
+          <oc:show_val>Cumberland Plateau</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4C3CCFBB-1250-496F-8946-D35EBC6549E3</arch:variableID>
+          <arch:valueID>E59995CA-5119-4E27-B5E6-DBD6A393A265</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/30143CD3-B95D-4979-9DBB-7A5F666469AC">30143CD3-B95D-4979-9DBB-7A5F666469AC</oc:propid>
+          <oc:var_label type="nominal">Landform</oc:var_label>
+          <oc:show_val>dissected uplands</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F13FD72D-FA3F-446A-823C-78D0CAD13B50</arch:variableID>
+          <arch:valueID>F6EF91D2-D68E-4365-3107-90B1F928A072</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/F875976C-203F-480B-8460-028866B8FE68">F875976C-203F-480B-8460-028866B8FE68</oc:propid>
+          <oc:var_label type="nominal">Locality</oc:var_label>
+          <oc:show_val>ridge</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D2381360-73F6-4665-8263-8C23D84A7816</arch:variableID>
+          <arch:valueID>3F784B4F-CF3C-472A-37EE-43A033E82AAA</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9A836833-1FF5-4439-62DB-85CA3569C621">9A836833-1FF5-4439-62DB-85CA3569C621</oc:propid>
+          <oc:var_label type="nominal">Soil association</oc:var_label>
+          <oc:show_val>Vandalia-Upshur</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E7160B7C-41CE-4C0C-36B1-D418D59EDCC3</arch:variableID>
+          <arch:valueID>6FC3ADB9-4AF3-48EA-EC30-4F4C4CF14E2E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/E2DC5234-15FF-43BB-0408-5D736C114BCC">E2DC5234-15FF-43BB-0408-5D736C114BCC</oc:propid>
+          <oc:var_label type="nominal">Soil series</oc:var_label>
+          <oc:show_val>Latham</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>0AFACAC2-6546-4640-7BE6-FCF9577F5583</arch:variableID>
+          <arch:valueID>2A7D4714-8C35-4271-B0D9-0844DC5E8B95</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/F986E4E1-BE16-4C05-765D-A8DA84B87FE4">F986E4E1-BE16-4C05-765D-A8DA84B87FE4</oc:propid>
+          <oc:var_label type="nominal">Soil type</oc:var_label>
+          <oc:show_val>LMD</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>660F40D1-76FB-42F3-E042-DE00E898CCC3</arch:variableID>
+          <arch:decimal>800</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/07D4BA38-E97A-4CC6-3565-7E7F377D2F57">07D4BA38-E97A-4CC6-3565-7E7F377D2F57</oc:propid>
+          <oc:var_label type="decimal">Elevation</oc:var_label>
+          <oc:show_val>800</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>0CC42061-7B9E-4DEE-FCEC-487B321CFB5A</arch:variableID>
+          <arch:valueID>C8352FAA-37A9-4C69-64CD-D9E6385F9568</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/12B8A521-035E-4EE5-4F8B-27CC60224C5A">12B8A521-035E-4EE5-4F8B-27CC60224C5A</oc:propid>
+          <oc:var_label type="alphanumeric">Slope</oc:var_label>
+          <oc:show_val>6 - 10</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2D90E907-DB85-4D3E-38B3-13C170982B3B</arch:variableID>
+          <arch:valueID>4BD3A750-C120-40B6-F9D9-918B07628229</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/82372F2B-D187-48C3-7E29-E2856A556B40">82372F2B-D187-48C3-7E29-E2856A556B40</oc:propid>
+          <oc:var_label type="nominal">Aspect</oc:var_label>
+          <oc:show_val>SE</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3681DB14-9EAC-4117-8783-2BBD71E3692E</arch:variableID>
+          <arch:decimal>180</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/4FBC04A9-6622-4DAB-8770-4704E720268F">4FBC04A9-6622-4DAB-8770-4704E720268F</oc:propid>
+          <oc:var_label type="decimal">Site area</oc:var_label>
+          <oc:show_val>180</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F0C8BA50-0E05-44A5-99B6-7B66D16EAF49</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/AFCB4742-F0EB-423D-05E8-9E00FEC118AB">AFCB4742-F0EB-423D-05E8-9E00FEC118AB</oc:propid>
+          <oc:var_label type="nominal">Dimensions</oc:var_label>
+          <oc:show_val>2</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>90027E56-508B-4ACC-80EC-2B9579E0B5AE</arch:variableID>
+          <arch:valueID>5591F525-249E-41E3-F6FF-8687DB7DE1F0</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CF84C4F4-9422-4244-43AD-49311DE7B82A">CF84C4F4-9422-4244-43AD-49311DE7B82A</oc:propid>
+          <oc:var_label type="nominal">Drainage</oc:var_label>
+          <oc:show_val>Big Sandy</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D7D4D1A4-F215-4E69-D03C-C972EA8AE94E</arch:variableID>
+          <arch:valueID>DCE06DCF-F48D-4C0A-1E75-0BFD186B3379</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/EC7811AC-117B-406E-0399-2BA1B80744DA">EC7811AC-117B-406E-0399-2BA1B80744DA</oc:propid>
+          <oc:var_label type="nominal">Close to water</oc:var_label>
+          <oc:show_val>permanent stream</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C1801C8A-8778-499A-2338-E8D108F46B49</arch:variableID>
+          <arch:integer>0</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/39CE187C-F006-421C-9ABE-DD2AEFF75805">39CE187C-F006-421C-9ABE-DD2AEFF75805</oc:propid>
+          <oc:var_label type="integer">Rank order</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A45034AF-080A-4409-FFF6-BB13B2F6EE2B</arch:variableID>
+          <arch:decimal>45</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/D44932D1-831B-4497-ED14-B34810B05C1F">D44932D1-831B-4497-ED14-B34810B05C1F</oc:propid>
+          <oc:var_label type="decimal">Distance to water</oc:var_label>
+          <oc:show_val>45</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CAF0AD0D-8335-4679-CA99-84020184A3FE</arch:variableID>
+          <arch:valueID>9E1C0E97-F59F-4291-0222-0830DFA5758E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D5F12D7D-EC38-4104-75CB-CC05B4796B23">D5F12D7D-EC38-4104-75CB-CC05B4796B23</oc:propid>
+          <oc:var_label type="nominal">Site reporting</oc:var_label>
+          <oc:show_val>amateur</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5172F0A7-27D8-4308-E4C7-752448B9FDF0</arch:variableID>
+          <arch:valueID>948AF4F8-5C9C-4AC6-156F-B60D688AC879</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C5C51364-6B3A-4CED-2C6C-C62C74AB0960">C5C51364-6B3A-4CED-2C6C-C62C74AB0960</oc:propid>
+          <oc:var_label type="nominal">Insvestigation type</oc:var_label>
+          <oc:show_val>volunteered report</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F46807B6-108A-4C7D-F251-D4CC522C6890</arch:variableID>
+          <arch:integer>973</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/24421F15-ACA2-4AE7-ACA7-9BAFD9910C50">24421F15-ACA2-4AE7-ACA7-9BAFD9910C50</oc:propid>
+          <oc:var_label type="integer">Initial date</oc:var_label>
+          <oc:show_val>973</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2918B8C6-8E65-4136-8430-CA17D6D9BDF4</arch:variableID>
+          <arch:valueID>42675B6A-72BA-4C65-D472-06AF05F64537</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/40DD77CB-17E5-46A3-29C8-304BE0484D49">40DD77CB-17E5-46A3-29C8-304BE0484D49</oc:propid>
+          <oc:var_label type="boolean">Update</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>691B2867-BE74-47E8-EF98-B97FAC60C424</arch:variableID>
+          <arch:valueID>42675B6A-72BA-4C65-D472-06AF05F64537</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/52FA9A80-84B5-4D25-E39A-474E20B37C52">52FA9A80-84B5-4D25-E39A-474E20B37C52</oc:propid>
+          <oc:var_label type="boolean">Storage</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>27E0411C-15BE-4CF1-8760-2FD73BA49574</arch:variableID>
+          <arch:valueID>BE2B3B88-EB2A-485D-E8F9-BA64CB9475F3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/38480575-16E5-48DB-B442-1B6C7E265AA2">38480575-16E5-48DB-B442-1B6C7E265AA2</oc:propid>
+          <oc:var_label type="nominal">Additional information</oc:var_label>
+          <oc:show_val>No</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>950A38D0-67CC-44B4-6FC2-305A23B5C28B</arch:variableID>
+          <arch:valueID>68EAAA30-44A9-4EB6-BB1B-7159E3488430</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/0C8685FD-95B2-4E58-97CA-E02C56CC1C73">0C8685FD-95B2-4E58-97CA-E02C56CC1C73</oc:propid>
+          <oc:var_label type="nominal">National registry</oc:var_label>
+          <oc:show_val>not recorded</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/0AD857F6-AA14-4E8B-8089-65774E9C4DC6">
+        <oc:name>Kentucky</oc:name>
+        <oc:id>0AD857F6-AA14-4E8B-8089-65774E9C4DC6</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/D08850FA-0F0D-4E19-C18D-8924D0293394">
+        <oc:name>Boyd</oc:name>
+        <oc:id>D08850FA-0F0D-4E19-C18D-8924D0293394</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Kentucky Site Files: 15Bd17 (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-03-15</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>Kentucky</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/">Kentucky Office of State Archaeology (KOSA)</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/E8EAABC1-3593-4CC7-7461-B6F875F61AD8</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/F05ACE4F-9B55-48A0-D640-5276B8B899C7">Kentucky Site Files</oc:project_name>
+    <oc:pub_date>2014-03-15T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Kentucky+Site+Files%3A+15Bd17+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=Kentucky&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Kentucky+SHPO&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FE8EAABC1-3593-4CC7-7461-B6F875F61AD8</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>38.341623393464</oc:geo_lat>
+      <oc:geo_long>-82.529296875</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/E8EAABC1-3593-4CC7-7461-B6F875F61AD8" specificity="-11">
+        <oc:note>Approximated by geotile to zoom level 11</oc:note>
+        <oc:source_name>15Bd17</oc:source_name>
+        <oc:source_id>E8EAABC1-3593-4CC7-7461-B6F875F61AD8</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-03-15T17:22:49-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/03/15 17:22:49</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>
